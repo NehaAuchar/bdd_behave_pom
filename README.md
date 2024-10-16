@@ -1,6 +1,6 @@
 # NehaAuchar
 
-This is a demo project to demonstrate the implementation of the Selenium with Python.
+This is a demo project to demonstrate the implementation of the Selenium with Python with Page Object Model (POM).
 
 ## Description
 
